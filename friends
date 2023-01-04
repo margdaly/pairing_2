@@ -5,3 +5,13 @@ puts "that's true!"
 else 
     puts "not true"
 end
+
+best_friend2 = "Sabrina"
+
+if best_friend == "meghan"
+    puts "thats true"
+elsif best_friend2 == "Sabrina"
+    puts "also true"
+else
+    puts "not true"
+end
